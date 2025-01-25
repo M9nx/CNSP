@@ -137,7 +137,8 @@ Protocols used in the Session Layer are NetBIOS, PPTP.
 - ****Dialog Controller:**** The session layer allows two systems to start communication with each other in half-duplex or full duplex.
 
 
-![[Pasted image 20250125201700.png]]
+![Pasted image 20250125201700](https://github.com/user-attachments/assets/0d78a732-b5b9-42ea-ace2-7fe6c30b32bc)
+
 
 
 ## Layer 6 – Presentation Layer
@@ -160,7 +161,8 @@ Protocols used in the Presentation Layer are JPEG, MPEG, GIF, TLS/SSL, etc.
 implemented by the network applications.
 Protocols used in the Application layer are SMTP, FTP, DNS, etc.
 
-![[Pasted image 20250125220049.png]]
+![Pasted image 20250125220049](https://github.com/user-attachments/assets/8d864439-0031-404f-a757-464f4c947990)
+
 
 
 ### Functions of the Application Layer
@@ -192,10 +194,12 @@ Data flows through the OSI model in a step-by-step process:
 - ****Physical Layer:**** Frames are converted into bits and transmitted physically.
 
 
-![[Pasted image 20250125220913.png]]
+![Pasted image 20250125220913](https://github.com/user-attachments/assets/254a716a-ea08-4668-95b2-9b681060a01a)
 
 
-![[Pasted image 20250125221215.png]]
+
+![Pasted image 20250125221215](https://github.com/user-attachments/assets/27f48f1f-de7c-4c1b-b1a1-9ff8b661144b)
+
 
 
 ## Frequently Asked Questions on OSI Model – FAQs
