@@ -113,7 +113,8 @@ TCP/IP Model covers many Internet Protocols. The main rule of these Internet Pro
 - ==SMTP (Simple Mail Transfer Protocol)==:  is used to send and receive data.
 
 
-![[Pasted image 20250125034747.png]]
+![Pasted image 20250125034747](https://github.com/user-attachments/assets/89660193-9dcd-44bb-a84a-0597b95a871a)
+
 
 
 
