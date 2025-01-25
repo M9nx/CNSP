@@ -7,7 +7,8 @@ TCP/IP was designed and developed by the Department of Defense (DoD)
 
 The main work of TCP/IP is to transfer the data of a computer from one device to another
 
-![[Pasted image 20250125015410.png]]
+![Pasted image 20250125015410](https://github.com/user-attachments/assets/7bee9e0d-5750-4933-be64-406a386c6684)
+
 
 
 ### How TCP/ IP works?
