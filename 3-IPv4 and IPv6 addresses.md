@@ -17,7 +17,8 @@ is the original addressing system of the Internet. It uses a 32-bit address sche
 
 IPv4 Address Format is a 32-bit Address that comprises binary digits separated by a dot (.).
 
-![[Pasted image 20250126143355.png]]
+![Pasted image 20250126143355](https://github.com/user-attachments/assets/c136c24d-569f-42e1-a4e6-922126fdb163)
+
 
 
 
@@ -60,7 +61,8 @@ written as a group of 8 hexadecimal numbers separated by colon (:). It can be wr
 
 IPv6 Address Format is a 128-bit IP Address, which is written in a group of 8 hexadecimal numbers separated by colon (:).
 
-![[Pasted image 20250126151026.png]]
+![Pasted image 20250126151026](https://github.com/user-attachments/assets/018dc5c3-20a0-4689-8e18-38d971949163)
+
 
 
 To switch from IPv4 to IPv6, there are several strategies:
@@ -91,7 +93,8 @@ To switch from IPv4 to IPv6, there are several strategies:
 
 
 
-![[Pasted image 20250126161021.png]]
+![Pasted image 20250126161021](https://github.com/user-attachments/assets/352583e0-cbe9-4e00-9f28-0650adafc19e)
+
 
 
 
