@@ -1,5 +1,5 @@
 
-source from => https://www.geeksforgeeks.org/tcp-ip-model/
+
 
 TCP/IP   stands for  ==Transmission Control Protocol/Internet Protocol==
 
