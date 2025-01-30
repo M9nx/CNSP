@@ -1,12 +1,12 @@
 
-source => https://www.geeksforgeeks.org/difference-between-hub-switch-and-router/
 
 
 # Difference between Hub, Switch and Router
 
 it is very important to understand the difference between devices like hubs, switches, and routers.
 
-![[Network_devices.jpg]]
+![Network_devices](https://github.com/user-attachments/assets/08de6a34-875d-4afd-928c-454a42065e27)
+
 
 
 ## What is Hub?
@@ -30,7 +30,8 @@ It works on the network layer 3 and used in LANs, MANs and WANs. It stores [IP a
 
 
 
-![[Pasted image 20250127055736.png]]
+![Pasted image 20250127055736](https://github.com/user-attachments/assets/a2cac673-3c31-45b5-a758-303664aba49b)
+
 
 
 ## Frequently Asked Question Hub, Switch and Router – FAQ’s
