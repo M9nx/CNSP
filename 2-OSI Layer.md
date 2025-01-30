@@ -1,4 +1,4 @@
- source => https://www.geeksforgeeks.org/open-systems-interconnection-model-osi/
+
 
 OSI => Open Systems Interconnection
 
