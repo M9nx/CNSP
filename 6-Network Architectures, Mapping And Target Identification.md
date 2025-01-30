@@ -1,6 +1,5 @@
 
 
-![[1_w3xXDGCKj0ZLcvE5y1APLQ.webp]]
 
 
 `Nmap 101` 
