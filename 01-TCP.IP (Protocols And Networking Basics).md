@@ -37,16 +37,16 @@ responsible for the logical transmission of data over the entire network
 
 main protocols => IP |  ICMP | ARP
 
-==IP== => responsible for delivering packets from the source host to the destination host by looking at the IP addresses in the packet headers.
+IP => responsible for delivering packets from the source host to the destination host by looking at the IP addresses in the packet headers.
 
 has 2 versions: IPv4 and IPv6.
 IPv6 is growing as the number of IPv4.
 
-==ICMP== => stands for Internet Control Message Protocol
+ICMP => stands for Internet Control Message Protocol
 
 responsible for providing hosts with information about network problems.
 
-==ARP== => stands for Address Resolution Protocol
+ARP => stands for Address Resolution Protocol
 Its job is to find the hardware address of a host from a known IP address.
 
 
@@ -74,30 +74,30 @@ Applications that transport little amounts of data use UDP rather than TCP becau
 
 responsible for end-to-end communication and error-free delivery of data.
 
-==HTTP== => Hypertext transfer protocol
+HTTP => Hypertext transfer protocol
  it is a combination of HTTP with SSL(Secure Socket Layer). 
 
-==SSH== => stands for Secure Shell
+SSH => stands for Secure Shell
 maintain the encrypted connection. It sets up a secure session over a TCP/IP connection.
 
-==NTP== => stands for Network Time Protocol
+NTP => stands for Network Time Protocol
 used to synchronize the clocks on our computer to one standard time source.
 
 
-The ==host-to-host layer==  => responsible for providing communication between hosts (computers or other devices) on a network.
+The host-to-host layer  => responsible for providing communication between hosts (computers or other devices) on a network.
 It is also known as the transport layer.
 
 Some common use cases for the host-to-host layer include:
 
-- ==Reliable Data Transfer:== The host-to-host layer ensures that data is transferred reliably between hosts by using techniques like error correction and flow control. For example, if a packet of data is lost during transmission, the host-to-host layer can request that the packet be retransmitted to ensure that all data is received correctly.
+- Reliable Data Transfer:== The host-to-host layer ensures that data is transferred reliably between hosts by using techniques like error correction and flow control. For example, if a packet of data is lost during transmission, the host-to-host layer can request that the packet be retransmitted to ensure that all data is received correctly.
 
-- ==Segmentation and Reassembly==: The host-to-host layer is responsible for breaking up large blocks of data into smaller segments that can be transmitted over the network, and then reassembling the data at the destination. This allows data to be transmitted more efficiently and helps to avoid overloading the network.
+- Segmentation and Reassembly==: The host-to-host layer is responsible for breaking up large blocks of data into smaller segments that can be transmitted over the network, and then reassembling the data at the destination. This allows data to be transmitted more efficiently and helps to avoid overloading the network.
 
-- ==Multiplexing and Demultiplexing==: The host-to-host layer is responsible for multiplexing data from multiple sources onto a single network connection, and then demultiplexing the data at the destination. This allows multiple devices to share the same network connection and helps to improve the utilization of the network.
+- Multiplexing and Demultiplexing==: The host-to-host layer is responsible for multiplexing data from multiple sources onto a single network connection, and then demultiplexing the data at the destination. This allows multiple devices to share the same network connection and helps to improve the utilization of the network.
 
-- ==End-to-End Communication==: The host-to-host layer provides a connection-oriented service that allows hosts to communicate with each other end-to-end, without the need for intermediate devices to be involved in the communication.
+- End-to-End Communication==: The host-to-host layer provides a connection-oriented service that allows hosts to communicate with each other end-to-end, without the need for intermediate devices to be involved in the communication.
 
-==Example==: Consider a network with two hosts, A and B. Host A wants to send a file to host B. The host-to-host layer in host A will break the file into smaller segments, add error correction and flow control information, and then transmit the segments over the network to host B. The host-to-host layer in host B will receive the segments, check for errors, and reassemble the file. Once the file has been transferred successfully, the host-to-host layer in host B will acknowledge receipt of the file to host A.
+Example==: Consider a network with two hosts, A and B. Host A wants to send a file to host B. The host-to-host layer in host A will break the file into smaller segments, add error correction and flow control information, and then transmit the segments over the network to host B. The host-to-host layer in host B will receive the segments, check for errors, and reassemble the file. Once the file has been transferred successfully, the host-to-host layer in host B will acknowledge receipt of the file to host A.
 
 In this example, the host-to-host layer is responsible for providing a reliable connection between host A and host B, breaking the file into smaller segments, and reassembling the segments at the destination. It is also responsible for multiplexing and demultiplexing the data and providing end-to-end communication between the two hosts.
 
@@ -109,8 +109,8 @@ The physical layer is ==not== covered by the TCP/IP model because the data link 
 
 TCP/IP Model covers many Internet Protocols. The main rule of these Internet Protocols is how the data is validated and sent over the Internet. Some Common Internet Protocols include:
 
-- ==FTP (File Transfer Protocol)==:  takes care of how the file is to be sent over the Internet.
-- ==SMTP (Simple Mail Transfer Protocol)==:  is used to send and receive data.
+- FTP (File Transfer Protocol)==:  takes care of how the file is to be sent over the Internet.
+- SMTP (Simple Mail Transfer Protocol)==:  is used to send and receive data.
 
 
 ![Pasted image 20250125034747](https://github.com/user-attachments/assets/89660193-9dcd-44bb-a84a-0597b95a871a)
